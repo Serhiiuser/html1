@@ -1,0 +1,32 @@
+body {
+    background: black;
+}
+
+h1 {
+    text-align: center;
+    color: azure;
+}
+
+.description {
+
+    color: darkgrey;
+}
+
+a {
+    color: azure;
+    font-size: 20px;
+}
+
+a:hover {
+    color: darkred;
+}
+
+img {
+    border: 5px solid darkred;}
+
+h1.solid { border: 5px solid cornflowerblue;
+}
+
+
+
+
